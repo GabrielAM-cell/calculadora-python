@@ -5,13 +5,14 @@ Sobre o projeto
 
 Uma calculadora simples desenvolvida em Python, capaz de realizar operações matemáticas básicas.
 
-Funcionalidades
-Adição
-Subtração
-Multiplicação
+Funcionalidades:
+Adição,
+Subtração,
+Multiplicação e
 Divisão
-Tecnologias utilizadas
+Tecnologias utilizadas:
 Python
+
 Objetivo
 
 Praticar conceitos básicos de programação, lógica computacional e utilização da linguagem Python.
