@@ -1,7 +1,7 @@
 # calculadora-python
 Calculadora desenvolvida em Python como projeto acadêmico.
 
-Sobre o projeto
+Sobre o projeto:
 
 Uma calculadora simples desenvolvida em Python, capaz de realizar operações matemáticas básicas.
 
