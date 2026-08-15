@@ -10,6 +10,7 @@ Adição,
 Subtração,
 Multiplicação e
 Divisão
+
 Tecnologias utilizadas:
 Python
 
